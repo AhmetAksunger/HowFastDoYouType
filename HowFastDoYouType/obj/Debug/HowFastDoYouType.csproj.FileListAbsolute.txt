@@ -1,0 +1,11 @@
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\bin\Debug\HowFastDoYouType.exe.config
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\bin\Debug\HowFastDoYouType.exe
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\bin\Debug\HowFastDoYouType.pdb
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.csproj.AssemblyReference.cache
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.csproj.SuggestedBindingRedirects.cache
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.Form1.resources
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.Properties.Resources.resources
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.csproj.GenerateResource.cache
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.exe
+C:\Users\90538\source\repos\HowFastDoYouType\HowFastDoYouType\obj\Debug\HowFastDoYouType.pdb
