@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,6 +19,7 @@ namespace HowFastDoYouType
         double wrongWords = 0;
         int seconds = 60;
         int secondsCalculate = 60;
+        bool check = true;
 
 
         string filePath = @"C:\Users\90538\source\repos\HowFastDoYouType\200Words\200Words.txt";
@@ -125,7 +126,10 @@ namespace HowFastDoYouType
         //the function to see whether a key is pressed or not in userTextBox
         private void textBoxKeyPress(object sender, KeyPressEventArgs e)
         {
-            StartCountDown();
+            if (check)
+            {
+                StartCountDown();
+            }
             if (e.KeyChar == Convert.ToChar(Keys.Space))
             {
                 
@@ -154,6 +158,7 @@ namespace HowFastDoYouType
         //controls what happens when the game is over
         public void GameOver()
         {
+            check = false;
             countDownTimer.Stop();
             lblResult.Text = WPMCalculator().ToString() + " WPM";
             lblCorrectWordsCount.Text = correctWords.ToString();
@@ -214,6 +219,7 @@ namespace HowFastDoYouType
 
         private void btnRestart_Click(object sender, EventArgs e)
         {
+            check = true;
             Restart();
         }
 
