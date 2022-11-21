@@ -170,7 +170,8 @@ namespace HowFastDoYouType
         //controls what happens when you want to restart the game
         public void Restart()
         {
-
+            correctWords = 0;
+            wrongWords = 0;
             countDownTimer.Stop();
             labelPanel.Show();
             lblCorrectWordsCount.Text = "0";
