@@ -1,4 +1,6 @@
 # HowFastDoYouType
+Note: Do not forget to change the string path of words file before using.
+
 Coded a program to check how fast you are typing. Got the idea from 10fastfingers and wanted to see if i could code the same thing with c#
 
 There might be some simplifications in my codes, I'm a beginner with C# so if you have any remarks or corrections please do let me know!
